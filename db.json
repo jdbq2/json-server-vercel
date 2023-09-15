@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Monoma TI",
+            "email": "email@example.com",
+            "password": "pruebamonoma",
+            "phone": "3112349876",
+            "image": "https://randomuser.me/api/portraits/men/75.jpg",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6Ik1vbm9tYSBUSSIsImVtYWlsIjoiZW1haWxAZXhhbXBsZS5jb20iLCJwYXNzd29yZCI6ImFiY2QxMjM0IiwicGhvbmUiOiIzMTEyMzQ5ODc2In0.GyUXjfldgGxvAo83hzJn4GdM88YiEh1j7lkLud4FhCw"
+        }
+    ]
+}
